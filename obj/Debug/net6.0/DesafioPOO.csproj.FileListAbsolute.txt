@@ -1,0 +1,15 @@
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.exe
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.deps.json
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.dll
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\bin\Debug\net6.0\DesafioPOO.pdb
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.dll
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\refint\DesafioPOO.dll
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.pdb
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+E:\DIO\dotnet\Projetos\Explorando c#\abstracaoCelular\trilha-net-poo-desafio\obj\Debug\net6.0\ref\DesafioPOO.dll
